@@ -1,2 +1,2 @@
 # -javaScript
-This ia demo file.
+This is demo file.
